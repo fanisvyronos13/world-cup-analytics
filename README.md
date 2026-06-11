@@ -34,10 +34,10 @@ Trained on 11,440 competitive international matches since 1990. Validated agains
 
 | File | Description |
 |---|---|
-| `worldcupanalysis.ipynb` | Full annotated notebook (36 cells) |
+| `worldcupanalysisfinalcode.html` | Full annotated notebook (36 cells) |
 | `worldcup_master.csv` | Master dataset — 96 teams, 3 tournaments, 19 variables |
 | `results.csv` | 49,450 international match results (Kaggle) |
-| `WorldCup_Report_Final.pdf` | Full written report (~2,500 words) |
+| `WorldCup_Report_Final_Updated.pdf` | Full written report (~2,500 words) |
 
 ---
 
