@@ -55,3 +55,7 @@ Spearman correlation · Bonferroni correction · Poisson regression · Monte Car
 - WhoScored — team statistics 2014 & 2018
 - FIFA official records — 2022 tournament data
 - eloratings.net — Elo ratings as of June 10, 2026
+
+
+## Live Updates
+Model re-runs after every gameweek → [View all updates](Updates)
